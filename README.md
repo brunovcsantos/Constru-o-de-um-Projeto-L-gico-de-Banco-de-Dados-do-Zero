@@ -1,4 +1,4 @@
-# Constru-o-de-um-Projeto-L-gico-de-Banco-de-Dados-do-Zero
+# Construção-de-um-Projeto-Lógico-de-Banco-de-Dados-do-Zero
 <p> Neste desafio tive modelar o esquema lógico utilizando o modelo relacional de uma oficina mecânica, utilizando-se dos mesmos cuidados do desafio anterior de um projeto lógico de um e-commerce.</p>
 
 <p>Desse modo, realizei a criação do Script SQL para criação do esquema do banco de dados. Depois, realize a persistência de dados para realização de testes. E ainda criei queries para fazer consultas. CrieI AS queries SQL seguindo as cláusulas abaixo:</p>
